@@ -33,8 +33,8 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba/go.mod h1:dV8lFg6daOBZbT6/BDGIz6Y3WFGn8juu6G+CQ6LHtl0=
 github.com/dgrijalva/jwt-go v0.0.0-20170104182250-a601269ab70c/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/dnaeon/go-vcr v1.0.1/go.mod h1:aBB1+wY4s93YsC3HHjMBMrwTj2R9FHDzUr9KyGc8n1E=
-github.com/docker/distribution v0.0.0-20200319173657-742aab907b54 h1:wxX61VZypmXacwrj9aLDwAxAuT5kq1aq3NFc5IfbfZs=
-github.com/docker/distribution v0.0.0-20200319173657-742aab907b54/go.mod h1:Oqz4IonmMNc2N7GqfTL2xkhCQx0yS6nR+HrOZJnmKIk=
+github.com/distribution/distribution v0.0.0-20200319173657-742aab907b54 h1:wxX61VZypmXacwrj9aLDwAxAuT5kq1aq3NFc5IfbfZs=
+github.com/distribution/distribution v0.0.0-20200319173657-742aab907b54/go.mod h1:Oqz4IonmMNc2N7GqfTL2xkhCQx0yS6nR+HrOZJnmKIk=
 github.com/docker/docker v0.7.3-0.20190212235812-0111ee70874a h1:r64ncoybKAgtiM9jIPurN/P+9qc1hIF78FYWe6KD7Aw=
 github.com/docker/docker v0.7.3-0.20190212235812-0111ee70874a/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/docker v1.4.2-0.20190219180918-740349757396 h1:XvFY2EbWlXUp7rS3wexKbH/p0KRaUJCzjWbsKdHggDQ=
