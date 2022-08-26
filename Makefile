@@ -23,7 +23,7 @@ PROJECT := container-diff
 REPOPATH ?= $(ORG)/$(PROJECT)
 RELEASE_BUCKET ?= $(PROJECT)
 
-SUPPORTED_PLATFORMS := linux-$(GOARCH) darwin-$(GOARCH) windows-$(GOARCH).exe
+SUPPORTED_PLATFORMS := linux-$(GOARCH)
 BUILD_PACKAGE = $(REPOPATH)
 
 # These build tags are from the containers/image library.

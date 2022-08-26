@@ -2,14 +2,14 @@ module github.com/GoogleContainerTools/container-diff
 
 go 1.15
 
-replace golang.org/x/sys => golang.org/x/sys v0.0.0-20190830141801-acfa387b8d69
+replace golang.org/x/sys => golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 
 require (
 	code.cloudfoundry.org/bytefmt v0.0.0-20180906201452-2aa6f33b730c
 	github.com/docker/distribution v0.0.0-20200319173657-742aab907b54 // indirect
-	github.com/docker/docker v1.4.2-0.20190219180918-740349757396
+	github.com/docker/docker v1.6.1
 	github.com/fsouza/go-dockerclient v1.3.6
-	github.com/gogo/protobuf v1.2.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/go-containerregistry v0.0.0-20190214194807-bada66e31e55
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
